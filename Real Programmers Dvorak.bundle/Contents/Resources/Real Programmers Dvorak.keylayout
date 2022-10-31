@@ -795,13 +795,13 @@
             <!-- number row -->
             <!-- option, a.k.a. Alt Graph. starred entries indicate that they
 	     effectively unassigned and return the value of the normal map -->
-            <key code="0" action="a"/>
+            <key code="0" output="&#xE4;"/>
             <!-- left pinky 	-->
-            <key code="1" action="o"/>
+            <key code="1" output="&#xF6;" />
             <!-- left ring 		-->
             <key code="2" action="e"/>
             <!-- left middle 	-->
-            <key code="3" action="u"/>
+            <key code="3" output="&#xFC;"/>
             <!-- left index 1 	-->
             <key code="4" action="d"/>
             <!-- right index 2 	-->
@@ -892,7 +892,7 @@
             <!-- right pinky 2 	-->
             <key code="40" action="t"/>
             <!-- right middle 	-->
-            <key code="41" action="s"/>
+            <key code="41" output="&#xDF;"/>
             <!-- right pinky 1 	-->
             <key code="42" output="|"/>
             <!-- right pinky 3 	-->
@@ -1030,13 +1030,13 @@
         <keyMap index="4">
             <!-- upper-case option, items marked with at sign is unchanged
 	     compared to the unshifted version -->
-            <key code="0" output="å"/>
+            <key code="0" output="&#xC4;"/>
             <!-- left pinky 	-->
-            <key code="1" output="ø"/>
+            <key code="1" output="&#xD6;" />
             <!-- left ring 		-->
             <key code="2" output="æ"/>
             <!-- left middle 	-->
-            <key code="3" output="é"/>
+            <key code="3" output="&#xDC;"/>
             <!-- left index 1 	-->
             <key code="4" output="ð"/>
             <!-- right index 2 	-->
@@ -1134,7 +1134,7 @@
             <!--*-->
             <key code="40" output="þ"/>
             <!-- right middle 	-->
-            <key code="41" output="ß"/>
+            <key code="41" output="&#x1E9E;"/>
             <!-- right pinky 1 	-->
             <key code="42" output="\"/>
             <!-- right pinky 3 	-->
